@@ -1,7 +1,3 @@
-<div align="center">
-    <a href="https://debamitra.github.io/debs-journal/">Home</a>  
-</div>
-
 # CS50 AI Study Journal
 
 Welcome to my study journal for Harvard's CS50 AI course. 
