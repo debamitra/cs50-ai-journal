@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="/home">Home</a>  
+    <a href="https://debamitra.github.io/debs-journal/">Home</a>  
 </div>
 
 # CS50 AI Study Journal
