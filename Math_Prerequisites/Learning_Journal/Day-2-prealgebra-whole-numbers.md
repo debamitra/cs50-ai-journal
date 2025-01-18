@@ -15,12 +15,6 @@ Learned about place value (units place, tens place, hundreds, etc) and memorized
 ### Next Steps..
 Thinking about doing some mini projects based on these concepts. Some ideas from chatGPT, using Flask/FastAPI, TensorFlow/PyTorch, Pandas, Python -
 
-- **Prime Number Visualization**:
-  - Create a program to display prime numbers up to a given limit and highlight their distribution.
-  
-- **Counting Program**:
-  - Build a script that takes input from a user and counts objects or occurrences of an item in text (like words in a document).
-
 - **Data Processing for AI**:
   - Simulate a sensor data logger that generates random floating-point numbers, then preprocess the data by rounding to 2 decimal places.
   
