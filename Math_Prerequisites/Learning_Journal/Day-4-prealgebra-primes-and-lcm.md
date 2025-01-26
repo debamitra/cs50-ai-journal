@@ -27,7 +27,7 @@ The smallest number that is a multiple of two numbers is called the **least comm
 I completed Chapter 2.  I also re-solved the pre-algebra challenge on KhanAcademy. Got 4 questions wrong out of 30.
 
 
-###Next Steps
+### Next Steps
 
 Chapter 3,4,5 - Integers, Fractions and Decimels, lets cover those quickly
 
