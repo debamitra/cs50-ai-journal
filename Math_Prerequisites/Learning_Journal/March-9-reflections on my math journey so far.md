@@ -4,19 +4,16 @@ I have been doing math in my free time for the past couple of months, and I want
 
 
 
-### Why am I doing math?
+### Why Math?
 
-Whats my main motivation for starting math from scratch(math foundations)? 
+What drives me to start from scratch with math foundations, even when there’s no immediate career benefit? Mental health.
 
-Learning math is a very personal goal for me with no immediate outcomes and is not linked to immediate career growth in any way. So what drives me to prioritize math, even on days when I dont get much else done? The answer is simple - **mental health**.
-
-Intellectual learning is a key part of what keeps me grounded and emotionally fulfilled. It engages my mind in a way that doesn’t allow unhealthy fixations, procrastination, and boredom to take over and wreak havoc. Since my mental well-being has been my top priority for a while now, math has naturally become a top priority too.
+Learning has always been an anchor for me. It keeps my mind engaged, preventing boredom, procrastination, and unhealthy fixations from creeping in. Since mental well-being has been my top priority, math has naturally also taken priority.
 
 
+### How I have stayed consistent (even when I am not)
 
-### How I have stayed consistent (and also found some joy in it)
-
-Short answer - while I haven't been very consistent in practicing math daily, I keep picking it back up again even if its only for a few minutes to solve a couple of sums or revise a few concepts. 
+While I haven't been very consistent in practicing math daily, I keep picking it back up again even if its only for a few minutes to solve a couple of problems or revise a few concepts. 
 
 One thing that helps is journaling my learnings on GitHub. It allows me to review concepts quickly - I can just open the repo on my phone and give it a quick read whenever I feel like it. 
 
@@ -32,10 +29,10 @@ I also use LLMs like chatGPT to generate review problems to solve, based on what
 - [OpenNote](https://opennote.me/) – An AI math tutor I have enjoyed trying out.
 - [Open Library](https://openlibrary.org) – I have sometimes borrowed and read math books from here.
 
-I am working with openstax books primarily because I prefer using text books to learn over other forms of content, but I do suplement it with learning using LLMs, video tutorials and other forms of content as well.
+I primarily rely on textbooks, but I supplement them with LLMs, videos, and other formats to keep things engaging.
 
 
-### Studying math can be charming
+### Finding the Charm in Math
 
 Sometimes, to mix things up and make the learning process feel more alive, I will dive into the history of mathematics - how certain topics emerged or how it evolved in time and the fascinating stories around them. For instance, how Newton and Leibniz were rivals in mathematics and fought over credit for who invented calculus first was quite dramatic and interesting to read about. Discovering these delightful anecdotes and historical moments makes studying math even more engaging and helps deal with any drops in motivation for me.
 
@@ -43,4 +40,4 @@ Sometimes, to mix things up and make the learning process feel more alive, I wil
 
 ### Going forward
 
-So far, learning math has been an interesting experience. I am excited to get to the non-trivial topics and more challenging problems soon. I am currently working through High-school Algebra and then will pick pre-calculus topics next, and  I am curious to see how things will go.
+So far, learning math has been interesting. I am currently working through High-school Algebra and then will pick pre-calculus topics next. I am excited to tackle more challenging problems and see where this journey takes me
